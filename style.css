@@ -10,12 +10,12 @@
   --card-bg: #3d3d3d;
   --fire: #e4604d;
   --grass: #9dd465;
-  --eletric: #f9e45f;
+  --electric: #f9e45f;
   --water: #6a83d6;
   --ground: #e4c967;
   --rock: #cabb7b;
   --fairy: #eeb2fa;
-  --poision: #9f619d;
+  --poison: #9f619d;
   --bug: #c5cf4a;
   --dragon: #857af7;
   --psychic: #e56eaf;
@@ -40,11 +40,11 @@
 }
 
 
-.bg-eletric {
-  background: linear-gradient(to top right, var(--eletric), var(--card-bg) 25%);
+.bg-electric {
+  background: linear-gradient(to top right, var(--electric), var(--card-bg) 25%);
 }
-.eletric {
-  background-color: var(--eletric);
+.electric {
+  background-color: var(--electric);
 }
 
 
@@ -80,11 +80,11 @@
 }
 
 
-.bg-poision {
-  background: linear-gradient(to top right, var(--poision), var(--card-bg) 25%);
+.bg-poison {
+  background: linear-gradient(to top right, var(--poison), var(--card-bg) 25%);
 }
-.poision {
-  background-color: var(--poision);
+.poison {
+  background-color: var(--poison);
 }
 
 
@@ -213,6 +213,17 @@ body {
   display: none;
 }
 
+@media screen and (max-width: 940px) {
+  .card {
+    width: calc(50% - 20px);
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .card {
+    width: calc(100% - 20px);
+  }
+}
 
 @keyframes bg-in {
   0% {
