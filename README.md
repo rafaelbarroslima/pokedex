@@ -32,11 +32,14 @@ Consultar pokemons e seus respectivos dados através de uma api (pokeapi) trazen
 
 ### Visuaização do projeto
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f03c08f9-9ca4-4da6-a44e-f46318929624/deploy-status)](https://app.netlify.com/sites/stoic-bhabha-ffd61d/deploys)
+
 #### O site pode ser acessado no seguinte endereço:
 
 - http://mypokedex.tk/
 
 - O site utiliza o Netify e um domínio .tk
+
 
 
 ## 🚧 Projeto em construção 🚧
