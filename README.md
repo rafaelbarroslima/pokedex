@@ -48,9 +48,8 @@ Consultar pokemons e seus respectivos dados através de uma api (pokeapi) trazen
 
 - [x] criar cards com imagens e algumas informações dos pokemons
 - [x] colocar o site no ar para aprender sobre deploy de aplicação
-- [ ] criar filtro para buscar pokemons por nome, tipo, etc
-- [ ] Adicionar mais media query para outros tamanhos de tela (2 adicionados)
 - [ ] criar um heart para favoritar os pokemons desejados
+- [ ] Adicionar mais media query para outros tamanhos de tela (2 adicionados)
 - [ ] adicionar campo de busca para pesquisar pokemons
 - [ ] criar filtro para buscar pokemons por nome, tipo, etc
 - [ ] criar paginação e limitar exibição de pokemons por paginas como 16
