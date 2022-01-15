@@ -36,9 +36,9 @@ consultar pokemons e seus respectivos dados através de uma api (pokeapi) trazen
 
 #### O site pode ser acessado no seguinte endereço:
 
-- http://mypokedex.tk/
+- https://dazzling-lichterman-dbb55d.netlify.app/
 
-- O site utiliza o Netify e um domínio .tk
+- O site utiliza o Netify.
 
 
 
