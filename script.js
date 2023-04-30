@@ -24,7 +24,7 @@ const cardHTML = `
 </div>
 
 <div class="img bg-{type}">
-  <img src="https://pokeapi.co/api/v2/pokedex/{id}.png" alt="{name}" />
+  <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/dream-world/{id}.svg" alt="{name}" />
 </div>
 
 <div class="type {type}">
